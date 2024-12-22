@@ -1,0 +1,20 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
+
+# Python Virtual Environment
+env/
+venv/
+.venv/
+
+# Global environment files
+.env
+*.env
+
+# Editor/OS-specific
+.vscode/
+.idea/
